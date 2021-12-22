@@ -1,6 +1,6 @@
 # APP - TestMarvel
 
-### O APP - TestMarvel é um app que tem como ideia principal listar e relacionar todos os personagens, Filmes e Quadrinhos da Franquia MARVEL. 😁💖
+### TestMarvel é um app que tem como ideia principal listar e relacionar todos os personagens, Filmes e Quadrinhos da Franquia MARVEL. 😁💖
 
 ### Tecnologias 🚀
 - [React Native](https://reactnative.dev/)
