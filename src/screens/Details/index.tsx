@@ -48,6 +48,8 @@ const Details: React.FC = () => {
           height: '100%',
           alignSelf: 'center',
         }}
+        activeDotColor="#FF0000"
+        dotColor="#84848D"
       >
         { data.map((item: ObjectCharacter, index: number ) => (
           index >= LIMIT ? null
