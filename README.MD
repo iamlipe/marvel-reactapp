@@ -23,5 +23,5 @@ $ expo start
 
 ### Screens 
 <h1 align="center">
-  <img src="./images/screens.png" alt="screens" />
+  <img src="./assets/screens.png" alt="screens" />
 </h1>
